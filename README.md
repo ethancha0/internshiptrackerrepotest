@@ -38,6 +38,16 @@
 <td><a href="https://google.com">Apply</a></td>
 <td>Aug 06</td>
 </tr>
+<!-- New test entry -->
+<tr>
+<td><strong><a href="https://google.com">SecondCompany</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Irvine, CA</td>
+<td><a href="https://google.com">Apply</a></td>
+<td>Aug 06</td>
+</tr>
+
+
 
 <!-- New test entry -->
 <tr>
