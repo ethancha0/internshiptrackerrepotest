@@ -1,5 +1,13 @@
 # internshiptrackerrepotest
 
+`listings.json` at the repo root is the real data source for
+[ats-scraper](https://github.com/ethancha0/ats-scraper)'s `--ats=github`
+poller (see `GITHUB_LISTING_SOURCES` in its `poll.py`) — shaped like
+SimplifyJobs' `listings.json` feed. Edit entries there (change an `id`,
+bump `date_posted`, flip `active`) to simulate a new posting and see it
+flow through `python poll.py --dry-run --ats=github` and into Discord.
+The table below is left over from earlier manual testing.
+
 <table>
 <tr>
 <td><strong><a href="https://example.com">TestCompany</a></strong></td>

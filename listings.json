@@ -1,0 +1,54 @@
+[
+  {
+    "id": "test-swe-intern-001",
+    "title": "Software Engineer Intern",
+    "company_name": "TestCompany",
+    "url": "https://example.com/jobs/swe-intern",
+    "category": "Software",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788391587,
+    "locations": [
+      "Remote"
+    ]
+  },
+  {
+    "id": "test-fullstack-coop-002",
+    "title": "Full Stack Engineer Co-op",
+    "company_name": "SecondCompany",
+    "url": "https://google.com/jobs/fullstack-coop",
+    "category": "Software",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788387987,
+    "locations": [
+      "Irvine, CA"
+    ]
+  },
+  {
+    "id": "test-marketing-intern-003",
+    "title": "Marketing Intern",
+    "company_name": "ANEWCOMPANY",
+    "url": "https://google.com/jobs/marketing-intern",
+    "category": "Marketing",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1788384387,
+    "locations": [
+      "Irvine, CA"
+    ]
+  },
+  {
+    "id": "test-closed-swe-004",
+    "title": "Software Engineer Intern (Closed)",
+    "company_name": "BULIA",
+    "url": "https://google.com/jobs/closed",
+    "category": "Software",
+    "active": false,
+    "is_visible": true,
+    "date_posted": 1788305187,
+    "locations": [
+      "Irvine, CA"
+    ]
+  }
+]
