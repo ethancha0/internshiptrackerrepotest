@@ -21,6 +21,16 @@ The table below is left over from earlier manual testing.
 <!-- New test entry -->
 <tr>
 <td><strong><a href="https://google.com">Barcus</a></strong></td>
+<td>testing title2</td>
+<td>Irvine, CA</td>
+<td><a href="https://youtube.com">Apply</a></td>
+<td>Sept. 2</td>
+</tr>
+
+
+<!-- New test entry -->
+<tr>
+<td><strong><a href="https://google.com">Barcus</a></strong></td>
 <td>testing title</td>
 <td>Irvine, CA</td>
 <td><a href="https://youtube.com">Apply</a></td>
