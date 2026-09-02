@@ -11,6 +11,18 @@ The table below is left over from earlier manual testing.
 <table>
 <tr>
 <td><strong><a href="https://example.com">TestCompany</a></strong></td>
+<td>Software Intern</td>
+<td>Remote</td>
+<td><a href="https://example.com">Apply</a></td>
+<td>Sept. 2</td>
+</tr>
+
+
+
+
+<table>
+<tr>
+<td><strong><a href="https://example.com">TestCompany</a></strong></td>
 <td>Test Role</td>
 <td>Remote</td>
 <td><a href="https://example.com">Apply</a></td>
